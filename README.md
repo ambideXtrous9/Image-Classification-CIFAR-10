@@ -1,6 +1,9 @@
 # Image-Classification-CIFAR-10
 Image Classification using CNN and Predictions
 
+![image](https://user-images.githubusercontent.com/31372586/126293055-1140d89d-c045-4d72-85a5-18a78ae161fd.png)
+
+
 # 1. Loss Vs Accuracy:
 ![image](https://user-images.githubusercontent.com/31372586/126237356-8bb1db20-2258-44ce-a0c6-8eb06591b572.png)
 ![image](https://user-images.githubusercontent.com/31372586/126237372-43509a95-1fbf-48df-b94c-fb1d39e62fb6.png)
